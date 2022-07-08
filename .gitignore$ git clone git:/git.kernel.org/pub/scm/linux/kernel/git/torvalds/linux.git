@@ -1,3 +1,5 @@
+$ git branch
+* master
 # Built application files
 *.apk
 *.aar
