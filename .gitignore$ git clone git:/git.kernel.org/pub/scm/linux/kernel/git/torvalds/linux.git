@@ -1,4 +1,4 @@
-$ git checkout
+$ git checkout-b new v2.6.13
 $ git branch
 * master
 # Built application files
